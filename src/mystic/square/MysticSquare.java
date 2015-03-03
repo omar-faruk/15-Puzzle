@@ -13,12 +13,12 @@ public class MysticSquare {
 	public static void main(String args[]) {
 		BaseBoard newGame = new BaseBoard();
 		while (true) {
-			int ax,ay,bx,by;
-			ax=sc.nextInt();
-			ay=sc.nextInt();
-			bx=sc.nextInt();
-			by=sc.nextInt();
-			//newGame.move(ax,ay,bx,by);
+			int ax, ay, bx, by;
+			ax = sc.nextInt();
+			ay = sc.nextInt();
+			bx = sc.nextInt();
+			by = sc.nextInt();
+			// newGame.move(ax,ay,bx,by);
 		}
 	}
 }
